@@ -12,7 +12,7 @@ Welcome to my RPA Project Portfolio. I am an RPA Developer with 3 years of exper
 
 ## 📁 Project Categories
 
-### ▶️ Power AUtomate Projects
+### ▶️ Power Automate Projects
 These projects focus on cloud-based as well as desktop-based workflow automation using Microsoft Power Automate:
 1. **Leave Request Workflow** - AUtomates leave approvals via Forms and Outlook.
 2. **Automated File Backup** - Backs up OneDrive files to SharePoint.
